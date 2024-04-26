@@ -1,2 +1,3 @@
 # FrontEnd
-Gabriel Jablonski
+Gabriel Jablonski - RM555452
+Felipe Horta Gresele - RM556955
