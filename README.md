@@ -10,3 +10,4 @@ Conta com utilização do seu seguro de veiculo e reparação do veiculo
 Ao final podemos dizer que temos o melhor aplicativo de seguro de veiculo
 Plataforma de facil acesso
 Pagína de Integrantes
+Pagína responsiva
